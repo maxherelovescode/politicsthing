@@ -9,5 +9,6 @@ permalink: 404.html
 @section('content')
     <h1>404 Error</h1>
 
-    <p>The page you were trying to access could not be found.</p>
+    <p>Much like our compeditors GOOD policies, this doesn't exist.</p>
+    <p>For policies AND laws you can trust, VOTE PEOPLE'S PARTY!</p>
 @endsection
