@@ -4,6 +4,7 @@
 
 @section('content')
     <h1>{{ $page->title }}</h1>
+    <h2>{{ $page->author }}</h2>
 
     @if ($page->image)
         <img src="{{ $page->image }}" style="object-fit: cover; height: 250px; width: 100%;">
@@ -22,8 +23,6 @@
     </blockquote>
 
     <hr>
-
-    <p>DISCLAIMER: Any 3rd-party services in these posts and in the config are only recommendations/suggestions. I am not affiliated with any of them.</p>
 
     @yield('postContent')
 
