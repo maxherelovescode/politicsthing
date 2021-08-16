@@ -2,25 +2,25 @@
 
 return [
     'production' => false,
-    'baseUrl' => 'https://artisanstatic.netlify.app',
+    'baseUrl' => 'https://thepeoplesparty.netlify.app',
     'site' => [
-        'title' => 'My Jigsaw Blog',
-        'description' => 'Personal blog of John Doe.',
+        'title' => 'The Peoples Party',
+        'description' => 'By People For People',
         'image' => 'default-share.png',
     ],
     'owner' => [
-        'name' => 'John Doe',
-        'twitter' => 'johndoe',
-        'github' => 'johndoe',
+        'name' => 'The Peoples Party',
+        'twitter' => '',
+        'github' => '',
     ],
     'services' => [
         'cmsVersion' => '2.10.156',
         'analytics' => 'UA-XXXXX-Y',
-        'disqus' => 'artisanstatic',
-        'formcarry' => 'XXXXXXXXXXXX',
+        'disqus' => '',
+        'formcarry' => 'RYUuQWvZd6U',
         'cloudinary' => [
-            'cloudName' => 'artisanstatic',
-            'apiKey' => '365895137117119',
+            'cloudName' => 'maxsamazingsite',
+            'apiKey' => '649185272939667',
         ],
     ],
     'collections' => [
