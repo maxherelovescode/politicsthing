@@ -11,5 +11,5 @@ permalink: 404.html
 
     <p>Much like our compeditors GOOD policies, this doesn't exist.</p>
     <p>For policies AND laws you can trust, VOTE PEOPLE'S PARTY!</p><br>
-    <li><a href="https://thepeoplesparty.netlify.app/" target="_blank">Ok I'll vote people's party!</a></li>
+    <a href="https://thepeoplesparty.netlify.app/" target="_blank">Ok I'll vote people's party!</a>
 @endsection
