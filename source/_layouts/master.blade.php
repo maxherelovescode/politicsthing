@@ -41,7 +41,7 @@
             <small>
                 &copy; <span data-year></span> {{ $page->owner->name }} &nbsp;&bull;&nbsp;
                 <a href="/feed.atom">RSS</a> &nbsp;&bull;&nbsp;
-                Maintained by Netlify &nbsp;&bull;&nbsp;
+                Maintained by Max H &nbsp;&bull;&nbsp;
             </small>
         </footer>
     </section>
