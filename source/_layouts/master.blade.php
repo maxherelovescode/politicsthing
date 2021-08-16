@@ -20,7 +20,7 @@
     <section>
         <header>
             <nav>
-                <img src='https://res.cloudinary.com/maxsamazingsite/image/upload/v1629080474/politics%20for%20school/image1_q62eqa.png'>
+                <img src='http://res.cloudinary.com/maxsamazingsite/image/upload/c_scale,w_32/v1629080474/politics%20for%20school/image1_q62eqa.png'>
                 <strong>{{ $page->site->title }}</strong><br>
                 <ul>
                     <li><a href="/">Home</a></li>
