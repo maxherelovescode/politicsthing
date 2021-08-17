@@ -1,6 +1,6 @@
 ---
 title: "Health Bill: Denying Healthcare When Drugs Used"
-author: Cera S. (Image Courtesy Of Us News)
+author: Benjamin H. (Image Courtesy Of Us News)
 date: 2021-08-17
 tags:
   - drugs
