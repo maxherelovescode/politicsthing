@@ -1,6 +1,6 @@
 ---
 title: "Education Bill: Reduction Of Schooling Prices"
-author: Cera S. Formatted By (Image Courtesy Of The Guardian)
+author: Cera S. (Image Courtesy Of The Guardian)
 date: 2021-08-16
 tags:
   - bill
