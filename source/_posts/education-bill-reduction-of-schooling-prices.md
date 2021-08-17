@@ -1,6 +1,6 @@
 ---
 title: "Education Bill: Reduction Of Schooling Prices"
-author: Cera S. (Image Courtesy Of The Guardian)
+author: Cera S. Formatted By (Image Courtesy Of The Guardian)
 date: 2021-08-16
 tags:
   - bill
@@ -33,3 +33,6 @@ Education in New Zealand is compulsory so the child will still have to attend sc
 Most education in New Zealand is free and stationary money goes to the schools or the company they purchased it from. As well money for trips and out of school experiences to go to the company or place they went to? 
 
 > **Any Other Questions Should Be Emailed Through on the contact page or to max2072042@bbi.school.nz**
+
+
+(Formatted For Website By Max H)
