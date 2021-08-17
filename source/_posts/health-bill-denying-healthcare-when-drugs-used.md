@@ -33,7 +33,7 @@ Answer: This law is important because many insurance companies need to replace a
 
 Answer: The claim will either be rejected altogether if there is enough proof of them having an influenced system. Or the claim will be accepted, however, the person responsible for the retail of the alcohol/drugs will receive a warning/and or fine and needs to keep track of their customers' purchases. Or will not be able to sell these select items at all. 
 
-Any other questions to be submited by the contact page
+> Any other questions to be submited by the contact page
 
 
 (Bill Formated For Website By Max H)
