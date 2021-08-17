@@ -1,5 +1,5 @@
 ---
-title: "Health Bill: Denying Healthcare When Drugs Used"
+title: "Healthcare Bill: Denying Healthcare When Drugs Used"
 author: Benjamin H. (Image Courtesy Of Us News)
 date: 2021-08-17
 tags:
